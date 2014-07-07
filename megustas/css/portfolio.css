@@ -1,0 +1,67 @@
+/*FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Portfolio* INICIO */
+
+ul.main-project li * {
+    
+}
+
+ul.main-project li .in {
+padding: 140px 4%;
+}
+
+ul.main-project li .in img {
+margin-bottom: 25px;
+}
+
+ul.main-project li .in h2 {
+    font-size: 1.8rem;
+    letter-spacing: -1px;
+    margin-bottom: 14px;
+    color: rgba(255,255,255,0.87);
+}
+
+ul.main-project li .in p {
+    font-size: 1rem;
+    color: rgba(255,255,255,0.77);
+    margin-bottom: 34px;
+    font-weight: 400;
+    font-family: sans-serif;
+    line-height: 19px;
+}
+
+ul.main-project li .in a {
+    padding: 7px;
+    box-shadow: 0 0 0 4px rgba(0,0,0,0.25);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'roboto condensed', arial;
+    color: rgba(255,255,255,0.77);
+
+}
+
+ul.main-project li .in a i.fa {
+    margin-right: 7px;
+}
+
+ul.main-project li:first-child .in {
+    background: #155A9E;
+    padding-right: 34%;
+}
+
+ul.main-project li:nth-child(2) .in {
+    background: #D3001A;
+    text-align: right;
+    padding-left: 34%;
+}
+
+.ul.main-project li:nth-child(2) .in p {
+}
+
+ul.main-project li:last-child .in {
+    background: #00AEEF;
+    padding-right: 34%;
+}
+
+
+
+
+/*FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Portfolio* FIB */

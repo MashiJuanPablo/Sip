@@ -1,0 +1,6 @@
+Barra de cargado con fondo de imagen
+header con fondo de imagen
+herramientas usadas para crear cosas
+hover en el menu
+
+explicacion y slider de marcas mas importantes

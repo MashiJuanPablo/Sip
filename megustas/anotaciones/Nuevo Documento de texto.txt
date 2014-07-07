@@ -1,0 +1,12 @@
+0810-999-2347 o bien por correo electrónico a mayuda@afip.gov.ar 
+
+https://servicios1.afip.gov.ar/tramites_con_clave_fiscal/monotributo/resto_datos.asp
+
+Ha ocurrido un error durante la ejecución de la aplicacion y no se puede continuar. Por favor tenga en cuenta las siguientes consideraciones:
+
+ Sr. Contribuyente usted intenta recategorizarse como Trabajador Independiente Promovido y ha consignado en la opción INGRESOS un importe superior a $48000. Deberá tener en cuenta que los ingresos brutos para estos contribuyentes no pueden superar los $48000. 
+
+Verifique que haya ingresado los datos correctamente. Si continúa recibiendo este mensaje de error a pesar de que los datos esten correctos, comuníquese telefónicamente al 0810-999-2347 o bien por correo electrónico a mayuda@afip.gov.ar 
+ 
+ 
+Código de Error 90021 

@@ -1,0 +1,190 @@
+<!-- SECCION PRINCIPAL INICIO -->
+                    <hr>
+
+                    <div class="content-module">
+                        <h5>Empresas para las que trabaje</h5> 
+                        <ul class="launcher empresas">
+                            <li>
+                                <div>
+                                    <span>
+                                        <div>
+                                            <img src="images/reproisa.png" alt="#">
+                                        </div>
+                                    </span>
+                                </div>
+                                <h4>reproisa soluciones</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                </p>
+
+                            </li>
+
+                            <li>
+                                <div>
+                                    <span>
+                                        <div>
+                                            <img src="images/blackfish.png" alt="#">
+                                        </div>
+                                    </span>
+                                </div>
+                                <h4>blackfish web</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                </p>
+
+                            </li>
+
+                            <li class="nomar">
+                                <div>
+                                    <span>
+                                        <div>
+                                            <img src="images/masfast.png" alt="#">
+                                        </div>
+                                    </span>
+                                </div>
+                                <h4>masfast soluciones</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                </p>
+
+                            </li>
+
+                            <div class="clear"></div>
+
+                        </ul>
+
+
+                        <div class="clear"></div>
+                    </div>
+
+                    <!-- SECCION PRINCIPAL FIN -->
+
+                    <div class="content-module">
+                        <h5>Certificacion</h5> 
+                        <ul class="launcher empresas">
+                            <li>
+                                <div>
+                                    <span>
+                                        <div>
+                                            <img src="images/reproisa.png" alt="#">
+                                        </div>
+                                    </span>
+                                </div>
+                                <h4>reproisa soluciones</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                </p>
+
+                            </li>
+
+                            <li>
+                                <div>
+                                    <span>
+                                        <div>
+                                            <img src="images/blackfish.png" alt="#">
+                                        </div>
+                                    </span>
+                                </div>
+                                <h4>blackfish web</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                </p>
+
+                            </li>
+
+                            <li class="nomar">
+                                <div>
+                                    <span>
+                                        <div>
+                                            <img src="images/masfast.png" alt="#">
+                                        </div>
+                                    </span>
+                                </div>
+                                <h4>masfast soluciones</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                </p>
+
+                            </li>
+
+                            <div class="clear"></div>
+
+                        </ul>
+
+
+                        <div class="clear"></div>
+                    </div>
+                    <!-- SECCION PRINCIPAL FIN -->
+
+                    <div class="content-module">
+                        <h5>Empresas para las que trabaje</h5> 
+                        <ul class="launcher empresas">
+                            <li>
+                                <div>
+                                    <span>
+                                        <div>
+                                            <img src="images/reproisa.png" alt="#">
+                                        </div>
+                                    </span>
+                                </div>
+                                <h4>reproisa soluciones</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                </p>
+
+                            </li>
+
+                            <li>
+                                <div>
+                                    <span>
+                                        <div>
+                                            <img src="images/blackfish.png" alt="#">
+                                        </div>
+                                    </span>
+                                </div>
+                                <h4>blackfish web</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                </p>
+
+                            </li>
+
+                            <li class="nomar">
+                                <div>
+                                    <span>
+                                        <div>
+                                            <img src="images/masfast.png" alt="#">
+                                        </div>
+                                    </span>
+                                </div>
+                                <h4>masfast soluciones</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                </p>
+
+                            </li>
+
+                            <div class="clear"></div>
+
+                        </ul>
+
+
+                        <div class="clear"></div>
+                    </div>
+
+                    <!-- SECCION GALERIA FIN -->
+
+                    <div class="content-module">
+                        <h5>Algunas fotografias que tome</h5> 
+                        <ul class="metro">
+
+                            <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                            <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                            <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                            <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                            <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                            <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                            <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+
+                        </ul>
+
+                        <div class="box">
+                            <i class="close fa fa-times-circle">
+                            </i>
+                        </div>
+
+
+                        <div class="clear"></div>
+                    </div>
+                    <!-- SECCION GALERIA FIN -->

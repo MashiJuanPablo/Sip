@@ -1,0 +1,146 @@
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Bienvenido a Reproisa Solutions</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="qubitka" />
+    <meta name="description" content="Texto 123" />
+    <meta name="google-site-verification" content="#" />
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <link rel="stylesheet" type="text/css" href="css/item-portfolio.css"/>
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
+    <link href='http://fonts.googleapis.com/css?family=Roboto|Dosis:500' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+
+            var $box = $('.box');
+
+            $('.metro li').each(function(){
+                var color = $(this).css('backgroundImage');
+                var content = $(this).html();
+                $(this).click(function() {
+                    $box.css('backgroundImage', color);
+                    $box.addClass('open');
+                    $box.find('p').html(content);
+                });
+
+                $('.close').click(function() {
+                    $box.removeClass('open');
+                    $box.css('backgroundImage', 'transparent');
+                });
+
+            });
+
+        });
+    </script>
+
+</head>
+
+<body>
+
+    <div id="god">
+
+
+
+        <div class="bgheady"></div>
+        <div id="header">
+            <div class="inner-header">
+                <a id="logo" href="/">
+                    <h1>Juan Pablo Tinte</h1>
+                </a>
+
+
+            </div>
+            <ul class="mnu">
+                <li><a href="portfolio.html" title="#"><i class="fa fa-flash"></i>Ver mis trabajos </a>
+                </li>
+                <li><a href="#" title="#"><i class="fa fa-male"></i>Sobre mi</a>
+                </li>
+                <li><a href="#" title="#"><i class="fa fa-phone"></i>Contacto</a>
+                </li>
+            </ul>
+            <div class="loader"></div>
+            <div class="loady"></div>
+            <div class="clear"></div>
+        </div>
+
+        <div class="cont-smallbio">
+            <div class="in">
+
+                <div class="left">
+                    <div class="in">
+                        <div class="photo"></div>
+                        <div class="microdata">
+                            <p><i class="fa fa-map-marker"></i><span>Quito, Ecuador</span>  <i class="fa fa-clock-o"></i>  <span>16-06-1988</span>
+                            </p>
+                            <!--                      <li><i class="fa fa-facebook"></i> <i class="fa fa-twitter"> </i> <i class="fa fa-skype"></i></li>-->
+                        </div>
+                        <h2>Front-End Devloper / Diseñador Web</h2>
+                        <p>Hola mi nombre es juan pablo tinte nací en un día de otoño en la ciudad de salta. cuando tenia 12 años abrí un archivo llamado index.html, lo analice, me dedique a modificarlo y hacer mi versión de un sitio de otro país, descubriendo un archivo style.css, vi que estaba relacionado al diseño, colores, formas y mas. sentía que hacia magia, sentía que podía crear mi mundo por completo. hoy sigo pensando que en la web se hace magia por esto soy diseñador web y me gusta crear nuevos mundos, nuevos sitios, que estos sean mas rápidos, mas vistosos y mas accesible para todos.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="main-content-innner">
+
+                <div class="item-portfolio">
+
+                <div class="main-testimony">
+
+                    <ul>
+                        <li>
+                            <div class="testimony portfolio">
+                                <div class="left"></div>
+
+
+                                <div class="right">
+                                    <div class="in">
+                                        <h5><i class="fa fa-pencil-square-o"></i>&#32;Banco Masventas S.A <strong>(Diseño + Maquetado web)</strong></h5>
+                                        <p>Ipsum instituendarum admodum malis consequat an an ipsum arbitrantur ut deserunt nulla commodo eiusmod a ad lorem singulis eiusmod quo laboris o culpa iudicem, esse ex officia, ullamco o quae voluptate, iudicem ex esse consequat. Velit fabulas officia. Cillum eu se ipsum mandaremus, ingeniis qui ingeniis in nulla te ab sunt ullamco, e enim varias se iudicem, nam e relinqueret qui ubi aut reprehenderit ad velit pariatur eu tamen dolor, nescius veniam doctrina.</p>
+                                    </div>
+                                    <i class="fa fa-comment"></i>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </li>
+    </ul>
+                </div>
+
+                <div class="clear"></div>
+
+                    <ul class="metro">
+
+                        <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                        <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                        <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                        <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                        <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                        <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+                        <li><i class="fa fa-search"></i><span>Ver mas</span></li>
+
+                    </ul>
+
+                    <div class="box">
+                        <i class="close fa fa-times-circle">
+                        </i>
+                    </div>
+
+
+            </div>
+            <div class="clear"></div>
+            </div>
+        </div>
+
+
+
+    </div>
+
+</body>
+
+</html>

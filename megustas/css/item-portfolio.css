@@ -1,0 +1,23 @@
+/*FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Portfolio* INICIO */
+
+.item-portfolio {
+    width: 90%;
+    margin: 0 auto;
+}
+
+div.main-content div.main-content-innner div.item-portfolio div.main-testimony ul li {
+    position: relative;
+}
+
+.testimony.portfolio div.left, .testimony.portfolio div.right {
+    float: none;
+    width: 100%;
+}
+
+.testimony.portfolio div.left {
+
+}
+
+
+
+/*FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Portfolio* FIB */
